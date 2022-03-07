@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100%;
+
+}
+
+.home{
+    display: flex;
+    gap: 75%;
+}
+
+/* .about{
+    width: 100%;
+    margin-top: 20px;
+    text-align: right;
+} */
+
+h2{
+    margin: 20px;
+}
+
+.content{
+    margin-top: 250px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.footer{
+    margin-top: 350px;
+    text-align: center;
+}
+
